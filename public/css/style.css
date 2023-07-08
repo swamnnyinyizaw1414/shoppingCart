@@ -1,0 +1,17 @@
+
+    .margin-auto{
+        max-width: 600px;
+        margin: auto;
+    }
+
+    .text-decoration-none{
+        text-decoration: none;
+    }
+
+    .text-darkCyan{
+        color: darkcyan;
+    }
+
+    .red{
+        color: red;
+    }
